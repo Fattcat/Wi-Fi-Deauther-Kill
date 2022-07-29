@@ -5,5 +5,5 @@ How to setup Wi-Fi Deauther/Kill.
 
 !! I will not be responsible for any damages. !!
 
-1.  YOU Will need to Download and openthis file named to use and flash program to your ESP8266 CH340G v.3 A.K.A. (WI-FI JAMMER).
-2.  In this File is a GIUDE how to set up this script and run it using POWERBANK.
+1.  YOU Will need to Download and openthis file named **Návod na použitie By Dominik Hulin [SK-Lang].txt** to use and flash program to your ESP8266 CH340G v.3 A.K.A. (WI-FI JAMMER).
+2.  In this File is a GIUDE IN ENGLISH LANGUAGE.And its for how to set up this script and run it too using POWERBANK (or pc).
